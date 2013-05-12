@@ -3,6 +3,7 @@ jason:
  last_name: "liu"
  email: "liu33173847@hotmail.com"
  profile_name: "timliu"
+ encrypted_password: "$2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq"
 
 malina:
  first_name: "malina"
